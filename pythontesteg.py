@@ -21,6 +21,3 @@ def division(a, b):
 def multiplication(a, b):
 
   product = a * b
-
-  return product
-def minimum(a,b):
