@@ -24,3 +24,7 @@ def multiplication(a, b):
 
   return product
 def minimum(a,b):
+
+
+def dogs(a,b):
+    blablabla = a *b^2
