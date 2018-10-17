@@ -21,13 +21,10 @@ def division(a, b):
 def multiplication(a, b):
 
   product = a * b
-<<<<<<< HEAD
 
   return product
 def minimum(a,b):
 
 
 def dogs(a,b):
-    blablabla = a *b^2
-=======
->>>>>>> new_func
+    blablabla = farlessbla
